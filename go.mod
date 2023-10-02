@@ -1,6 +1,6 @@
 module github.com/nbd-wtf/ln-decodepay
 
-go 1.18
+go 1.20
 
 require (
 	github.com/btcsuite/btcd v0.23.5-0.20230228185050-38331963bddd
